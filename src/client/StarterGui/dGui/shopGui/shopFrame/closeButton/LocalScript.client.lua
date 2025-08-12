@@ -1,0 +1,9 @@
+local closeButton = script.Parent
+--closeButton.Size = UDim2.new(0, 100, 0, 35)
+--closeButton.Position = UDim2.new(1, -110, 0, 20)
+--closeButton.AnchorPoint = Vector2.new(0, 0)
+closeButton.BackgroundColor3 = Color3.fromRGB(200, 60, 60)
+closeButton.Text = "Close"
+closeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+closeButton.TextScaled = true
+closeButton.Font = Enum.Font.GothamBold
